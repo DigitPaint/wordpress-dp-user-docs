@@ -1,0 +1,14 @@
+{
+  "name": "digitpaint/dp-user-docs",
+  "description": "User documentation as markdown rendered right into WordPress",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Flurin Egger",
+      "email": "flurin@digitpaint.nl"
+    }
+  ],
+  "require": {
+  }
+}
