@@ -11,6 +11,6 @@
   ],
   "require": {
     "cebe/markdown": "~1.0.1",
-    "symfony/yaml": "^3.2"
+    "symfony/yaml": "~2.7"
   }
 }
