@@ -19,3 +19,8 @@
  * License:           MIT
  * License URI:       https://opensource.org/licenses/MIT
  */
+
+if ( is_admin() ) {
+    // we are in admin mode
+    require_once( dirname( __FILE__ ) . '/admin/admin.php' );
+}
