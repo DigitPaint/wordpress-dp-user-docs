@@ -12,7 +12,7 @@
  * Plugin Name:       DP User Docs
  * Plugin URI:        https://github.com/digitpaint/wordpress-dp-user-docs
  * Description:       User documentation rendered as markdown right in your admin
- * Version:           1.0.0
+ * Version:           1.0.2
  * Author:            Flurin Egger, Digitpaint
  * Author URI:        https://github.com/digitpaint/wordpress-dp-user-docss
  * Text Domain:       dp-user-docs
