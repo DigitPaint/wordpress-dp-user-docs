@@ -123,6 +123,10 @@ function docs_admin_menu() {
   $files = get_doc_files();
   $docs = array_map(function($file){ return get_doc($file); }, $files);
 
+  if(empty($docs)) {
+    return;
+  }
+
   add_menu_page(
     'Documentation',
     'Documentation',
